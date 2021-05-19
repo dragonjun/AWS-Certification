@@ -7,21 +7,22 @@
 3. [네트워크는 왜 이렇게 생긴걸까?](https://www.clien.net/service/board/lecture/15872844)
 4. [만들면서 배우는 아마존 버추얼 프라이빗 클라우드(Amazon VPC)](https://www.44bits.io/ko/post/understanding_aws_vpc)
 
-### 제품 소개
+### 제품
 
-- [클라우드 데이터 마이그레이션](https://aws.amazon.com/ko/cloud-data-migration/)
 - [AWS 기반 데이터 레이크 및 분석](https://aws.amazon.com/ko/big-data/datalakes-and-analytics/)
-- [AWS 기반 컨테이너](https://aws.amazon.com/ko/containers/)
-- [AWS 기반 클라우드 스토리지](https://aws.amazon.com/ko/products/storage/)
+- [AWS에서의 애플리케이션 통합](https://aws.amazon.com/ko/products/application-integration/)
 - [AWS 비용 관리](https://aws.amazon.com/ko/aws-cost-management/)
-- [AWS Direct Connect](https://aws.amazon.com/ko/directconnect/)
+- [AWS에서의 컴퓨팅](https://aws.amazon.com/ko/products/compute/)
+- [AWS 기반 컨테이너](https://aws.amazon.com/ko/containers/)
 - [AWS에서의 데이터베이스](https://aws.amazon.com/ko/products/databases/)
-- [AWS에서의 애플리케이션 통합](https://aws.amazon.com/ko/products/application-integration/?nc2=h_ql_prod_ap)
-- [AWS에서의 컴퓨팅](https://aws.amazon.com/ko/products/compute/?nc2=h_ql_prod_cp)
+- [개발자 도구](https://aws.amazon.com/ko/products/developer-tools/)
+- [Front-End Web & Mobile on AWS](https://aws.amazon.com/ko/products/frontend-web-mobile/)
+- [AWS Management Tools](https://aws.amazon.com/ko/products/management-tools/)
+- [Migration & Transfer on AWS](https://aws.amazon.com/ko/products/migration-and-transfer/)
 - [AWS의 네트워킹 및 콘텐츠 전송](https://aws.amazon.com/ko/products/networking/)
 - [AWS의 보안, 자격 증명 및 규정 준수](https://aws.amazon.com/ko/products/security/)
 - [AWS의 서버리스](https://aws.amazon.com/ko/serverless/)
-- [Front-End Web & Mobile on AWS](https://aws.amazon.com/ko/products/frontend-web-mobile/)
+- [AWS 기반 클라우드 스토리지](https://aws.amazon.com/ko/products/storage/)
 
 ### 개념 설명
 
