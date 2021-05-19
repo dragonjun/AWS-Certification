@@ -78,6 +78,11 @@
 - [AWS Storage Gateway FAQ](https://aws.amazon.com/ko/storagegateway/faqs/)
 - [Elastic Load Balancing FAQ](https://aws.amazon.com/ko/elasticloadbalancing/faqs/)
 
+### 실습 자습서(hands-on)
+
+- [Build a Basic Web Application](https://aws.amazon.com/getting-started/hands-on/build-web-app-s3-lambda-api-gateway-dynamodb/)
+- [Filter Messages Published to Topics](https://aws.amazon.com/getting-started/hands-on/filter-messages-published-to-topics/)
+
 ## 프로페셔널로 가는 길
 
 아직 안 가봐서 모릅니다.
